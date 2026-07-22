@@ -1,0 +1,11 @@
+name: RankedSMP
+version: 1.0.0
+main: com.rankedsmp.RankedSMP
+api-version: '1.21'
+author: RankedSMP
+description: Three separate leaderboards shown in the tab list - PvP rank, kill rank, and size rank.
+
+commands:
+  ranks:
+    description: Show all three leaderboards.
+    usage: /ranks
